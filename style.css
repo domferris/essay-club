@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Amiri', serif;
+  background: #fafafa;
+  color: #1e1e1e;
+}
+
+.essay {
+  margin: 5em 20%;
+}
+
+.essay .essay-info {
+  margin: 0 0 3em 2em;
+}
+
+.essay .essay-info .essay-title {
+  font-size: 3rem;
+  line-height: 2em;
+  letter-spacing: 0.025em;
+}
+
+.essay .essay-info .essay-author {
+  font-size: 1.8rem;
+  line-height: 1.2em;
+  letter-spacing: 0.015em;
+}
+
+.essay p {
+  font-size: 1.3rem;
+  text-indent: 2rem;
+  line-height: 2em;
+  text-align: justify;
+}
+/*# sourceMappingURL=style.css.map */
